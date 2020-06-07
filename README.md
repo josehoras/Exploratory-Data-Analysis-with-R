@@ -11,6 +11,6 @@ This project was made within the Udacity Nanodegree "Programming for Data Scienc
 - What is the average travel time for users in different cities?
 - What is the travel time for different user types?
 
-![trip_image](Trip_Duration.png)
+![trip_image](imgs/Trip_Duration.png)
 
 
