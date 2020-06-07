@@ -47,4 +47,23 @@ On weekly trip, we see a lower use of the service on weekends, specially at Chic
 
 Hourly trips data reveal two peak hours at the morning and at the evening. This corresponds to work entry and leave times. Again, Chicago and New York are similar in that the evening peak time is bigger than the morning peak time, while in Washington is the other way around. This may be relate to a higher proportion of jobs being on the public sector in Washington.
 
+### Question 3: Popular stations and trips
+
+- What is the most common trip from start to end (i.e., most frequent combination of start station and end station)?
+
+**Question 3 charts**
+
+![chicago](imgs/Chicago_Trips.png)
+
+![new_york](imgs/New_York_Trips.png)
+
+![washington](imgs/Washington_Trips.png)
+
+**Summary of question 3 results.**
+
+Tables of the most common trip as combination between start station and end station were created using the `paste` function to concatenate strings, and the `table` fuction to count each occurrence. The top 5 most common trips were filtered and plotted in a bar graph.
+
+The central stations are predictably well represented in the most common trips and, frequently, the same popular station is both the start and end station of the trip. 
+
+
 
