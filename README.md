@@ -11,6 +11,8 @@ This project was made within the Udacity Nanodegree "Programming for Data Scienc
 - What is the average travel time for users in different cities?
 - What is the travel time for different user types?
 
+**Question 1 chart**
+
 ![trip_image](imgs/Trip_Duration.png)
 
 **Summary question 1 results**
@@ -24,6 +26,8 @@ Contrary to what I first thought, occasional customers have longer trip times th
 - What is the most common month?
 - What is the most common day of week?
 - What is the most common hour of day?
+
+**Question 2 charts**
 
 ![monthly](imgs/Monthly.png)
 
